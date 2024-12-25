@@ -49,6 +49,8 @@ button:hover {
 .about__sun-image {
   width: 100px;
   height: 100px;
+  margin-right: 30px;
+  margin-bottom: 190px;
 }
 
 .about {
@@ -83,4 +85,8 @@ button:hover {
 
 .about__info {
   max-width: 550px;
+}
+
+.form__container {
+  width: 550px;
 }
